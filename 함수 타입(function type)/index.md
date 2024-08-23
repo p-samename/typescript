@@ -17,5 +17,5 @@ const message = greet("dong myeong");
 console.log(message); // Hello, dong myeong!
 ```
 
-- name: string: name 매개변수는 string 타입이어야 한다는 것을 지정.
-- : string: 함수가 string 타입의 값을 반환한다는 것을 지정.
+- name: string: name 매개변수는 string 타입이어야 한다는 것을 지정한다.
+- : string: 함수가 string 타입의 값을 반환한다는 것을 지정한다.
